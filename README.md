@@ -9,7 +9,7 @@ I'm a full stack developer...
 
 
 # TEMPLATE 404 NOT FOUND
-[Gambar 1](https://cdn.discordapp.com/attachments/1041961141594759178/1043808720288747530/image.png)
+![Gambar 1](https://cdn.discordapp.com/attachments/1041961141594759178/1043808720288747530/image.png)
 
 Kunjungi Kodingan Lainnya👉[LIHAT👈](https://github.com/rasyid1003?tab=repositories)
 
